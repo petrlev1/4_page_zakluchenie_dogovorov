@@ -12,12 +12,13 @@ h4 { color: #3279BC; font-weight: 400; font-size: 34px; margin: 50px 0 30px 0; l
 .table1 ul { display: table-row;}
 .ul_grey { background-color: #F2F2F2;}
 .table1 ul li { display: table-cell; font-size: 15px; vertical-align: middle; padding: 12px 5px 12px 5px;}
-.table1 ul .li_right { text-align: right; width: 1px; padding-left:20px; line-height: 18px;}
+.table1 .vertical_top {vertical-align: top; padding-top: 12px;}
+.table1 ul .li_right { text-align: right; width: 1px; padding-left:20px; line-height: 18px; }
 
 .form-control {
     display: block;
     float: left;
-    width: 70%;
+    width: 65%;
     height: 23px;
     padding: 6px 12px;
     font-size: 14px;
